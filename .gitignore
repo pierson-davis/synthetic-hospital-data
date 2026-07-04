@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+
+# Generated output (regenerate with generate.py); the curated example lives in sample_output/
+/synthetic_encounters.csv
+/synthetic_encounters.xlsx
+/ci_smoke.csv
+/ci_smoke.xlsx
